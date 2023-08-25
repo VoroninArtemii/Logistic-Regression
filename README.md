@@ -1,2 +1,2 @@
-# Logistic-Regression
-An example of logistic regression
+# Logistic Regression
+This notebook works with dataset and trains model with logisitc regression. Input data contains 3 columns: *age*, *sex*, *profession*. Output data: *income*. Diagrams and histograms were created to show input data. OneHotEncoding method was applied to the categorical features. Dataset was divided into train set (70%) and test set (30%). Different metrics were measured for train and test data. Correlation and confusion matrices were created too. 
